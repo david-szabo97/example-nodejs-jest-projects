@@ -2,7 +2,7 @@
 
 An example project that uses Jest projects to run unit, integration, and E2E tests separately.
 
-This project from one of my [blog article](https://daveiscoding.com//separate-nodejs-unit-integration-and-e2e-tests-using-jest-projects)s.
+This project is from one of my [blog article](https://daveiscoding.com//separate-nodejs-unit-integration-and-e2e-tests-using-jest-projects)s.
 
 ## Getting started
 
